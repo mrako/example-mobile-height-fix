@@ -8,8 +8,6 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
-  background: lightgray;
 }
 
 header,
@@ -34,14 +32,4 @@ footer {
   color: #ffffff;
   width: 100%;
   text-align: center;
-}
-
-a {
-  color: #0074d9;
-}
-
-@media only screen and (max-width: 48rem) {
-   body {
-      font-size: 1.325rem;
-   }
 }
